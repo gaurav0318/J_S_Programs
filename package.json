@@ -1,0 +1,17 @@
+{
+  "name": "19march2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "currentDateandTime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exports": "0.0.1",
+    "express": "^4.16.4",
+    "module": "^1.2.5",
+    "require": "^2.4.20"
+  }
+}
